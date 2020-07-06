@@ -44,4 +44,9 @@ function handleSave() {
     button.classList.add('saveBtn')
     button.onclick = handleSave
 
+    const icon = document.createElement('i')
+    icon.classList.add('fa')
+    icon.classList.add('fa-save')
+   
+
  }
