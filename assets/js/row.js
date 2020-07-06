@@ -24,5 +24,8 @@ function handleSave() {
         timeClass = "past"
     }
 
+    const parent = document.createElement('div')
+    parent.classList.add('row')
+    parent.classList.add('time-block')
 
  }
