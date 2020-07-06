@@ -23,13 +23,14 @@ Caroline Ninganga
 
 
 ## Link to project URL
+https://carolninganga.github.io/Day_Planner/
 
 
 ## Tests
 
-for the tests to run in the application use the following command:
+use the link above or clone to use on local server
 
 
 ## Questions
 
-For questions about the project contact carolninganga or directly at carolninganga@gmail.com.
+For more questions about this project and contributions contact carolninganga or directly at carolninganga@gmail.com.
