@@ -33,4 +33,10 @@ function handleSave() {
     time.classList.add('col-2')
     time.textContent = __time.format("h a")
 
+    const textarea = document.createElement('textarea')
+    textarea.classList.add('col-8')
+    textarea.classList.add('description')
+    textarea.classList.add(timeClass)
+    textarea.value = text
+
  }
