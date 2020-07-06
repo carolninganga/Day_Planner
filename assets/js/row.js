@@ -28,4 +28,7 @@ function handleSave() {
     parent.classList.add('row')
     parent.classList.add('time-block')
 
+    const time = document.createElement('div')
+    time.classList.add('hour')
+
  }
