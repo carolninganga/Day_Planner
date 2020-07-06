@@ -47,6 +47,9 @@ function handleSave() {
     const icon = document.createElement('i')
     icon.classList.add('fa')
     icon.classList.add('fa-save')
+
+    button.appendChild(icon)
+    parent.appendChild(time)
    
 
  }
