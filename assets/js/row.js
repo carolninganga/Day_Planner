@@ -30,5 +30,7 @@ function handleSave() {
 
     const time = document.createElement('div')
     time.classList.add('hour')
+    time.classList.add('col-2')
+    time.textContent = __time.format("h a")
 
  }
