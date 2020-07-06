@@ -13,3 +13,16 @@ function handleSave() {
  * @param {number} hour military time.
  * @param {string} text what is scheduled for this time.
  */
+
+ const rowBuilder = (hour, text) => {
+     const __time = moment(hour, "H:mm")
+     let timeClass = "future";
+     
+    if (moment().isSame(__time, 'hour')) {
+        timeClass = "present"
+    } else if (moment().isAfter(__time)) {
+        timeClass = "past"
+    }
+
+
+ }
