@@ -39,4 +39,9 @@ function handleSave() {
     textarea.classList.add(timeClass)
     textarea.value = text
 
+    const button = document.createElement('button')
+    button.classList.add('col-2')
+    button.classList.add('saveBtn')
+    button.onclick = handleSave
+
  }
