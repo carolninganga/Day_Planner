@@ -50,6 +50,8 @@ function handleSave() {
 
     button.appendChild(icon)
     parent.appendChild(time)
+    parent.appendChild(textarea)
+    parent.appendChild(button)
    
 
  }
