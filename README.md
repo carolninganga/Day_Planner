@@ -1,7 +1,7 @@
 
 ![Untitled_ Jul 6, 2020 5_34 PM](https://user-images.githubusercontent.com/33443452/86649205-87fe6680-bfaf-11ea-8e5d-3539b2ee7a41.gif)
 
-![Untitled_ Jul 6, 2020 5_34 PM](https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2FUntitled_%20Jul%207%2C%202020%201_30%20PM.gif?v=1594143710879)
+
 
 
 
